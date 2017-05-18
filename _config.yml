@@ -1,6 +1,6 @@
 # Site settings
-title: Roger's Blog
-SEOTitle: Roger的博客 | Roger's Blog
+title: DeepSeaEel's Blog
+SEOTitle: DeepSeaEel的博客 | DeepSeaEel's Blog
 header-img: img/home-bg.jpg
 email: flyrogermail@gmail.com
 description: ""
@@ -55,7 +55,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Baidu Analytics
 ba_track_id: 853eb60823139dbd2366d07044f623aa
 # Google Analytics
-ga_track_id: 'UA-74784527-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-99351281-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
 
 
